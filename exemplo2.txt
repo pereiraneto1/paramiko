@@ -1,0 +1,13 @@
+ O volume na unidade D ‚ Dados
+ O N£mero de S‚rie do Volume ‚ EEB3-3CB2
+
+ Pasta de D:\Users\20261144030023\Desktop\Programacao_redes_2026
+
+13/08/2026  21:49    <DIR>          .
+13/08/2026  20:43    <DIR>          ..
+13/08/2026  21:04                 0 .gitignore
+13/08/2026  21:49                 0 exemplo2.txt
+13/08/2026  21:12    <DIR>          Lista1
+13/08/2026  21:02                 0 READIME.md
+               3 arquivo(s)              0 bytes
+               3 pasta(s)   901.026.566.144 bytes dispon¡veis
